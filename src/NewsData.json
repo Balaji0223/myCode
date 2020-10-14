@@ -1,0 +1,44 @@
+[
+	{
+        "id": "1",
+		"color": "red",
+        "value": "#f00",
+        "text": "The JSON output from different Server APIs can range from simple to highly nested and complex. The examples on this page attempt to illustrate how the JSON Data Set treats specific formats, and gives examples of the different constructor options that allow the user to tweak its behavior."
+	},
+	{
+        "id": "2",
+		"color": "green",
+		"value": "#0f0",
+        "text": "The JSON output from different Server APIs can range from simple to highly nested and complex. The examples on this page attempt to illustrate how the JSON Data Set treats specific formats, and gives examples of the different constructor options that allow the user to tweak its behavior."
+	},
+	{
+        "id": "3",
+		"color": "blue",
+		"value": "#00f",
+        "text": "The JSON output from different Server APIs can range from simple to highly nested and complex. The examples on this page attempt to illustrate how the JSON Data Set treats specific formats, and gives examples of the different constructor options that allow the user to tweak its behavior."
+	},
+	{
+        "id": "4",
+		"color": "cyan",
+		"value": "#0ff",
+        "text": "The JSON output from different Server APIs can range from simple to highly nested and complex. The examples on this page attempt to illustrate how the JSON Data Set treats specific formats, and gives examples of the different constructor options that allow the user to tweak its behavior."
+	},
+	{
+        "id": "5",
+		"color": "magenta",
+		"value": "#f0f",
+        "text": "The JSON output from different Server APIs can range from simple to highly nested and complex. The examples on this page attempt to illustrate how the JSON Data Set treats specific formats, and gives examples of the different constructor options that allow the user to tweak its behavior."
+	},
+	{
+        "id": "6",
+		"color": "yellow",
+		"value": "#ff0",
+        "text": "The JSON output from different Server APIs can range from simple to highly nested and complex. The examples on this page attempt to illustrate how the JSON Data Set treats specific formats, and gives examples of the different constructor options that allow the user to tweak its behavior."
+	},
+	{
+        "id": "7",
+		"color": "black",
+		"value": "#000",
+        "text": "The JSON output from different Server APIs can range from simple to highly nested and complex. The examples on this page attempt to illustrate how the JSON Data Set treats specific formats, and gives examples of the different constructor options that allow the user to tweak its behavior."
+	}
+]
